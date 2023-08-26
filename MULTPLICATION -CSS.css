@@ -1,0 +1,60 @@
+body{ margin:0;
+    background-color:yellow;
+   display:flex;
+   height:100vh;
+   justify-content:center;
+   align-items:center;
+   font-family:cursive;
+   text-align: center;
+}
+
+form{
+    background-color:white;
+    padding:20px;
+    box-shadow:0 4px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    margin: 10px;
+}
+#ans{
+
+border:5px green solid;
+padding: 10px;
+font-family:cursive;
+font-size:30px;
+text-align: center;
+width: 100%;
+box-sizing: border-box;
+color: green;
+}
+
+#submit{
+    margin: 20px 0;
+    padding:10px;
+    width:100%;
+    border-radius: 5px;
+    background-color: green;
+    color:white;
+    font-family:cursive;
+    font-size: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+   display:block;
+   border: none;
+   cursor: pointer;
+   
+  
+}
+#submit:hover{
+    background-color:darkgreen;
+
+}
+
+#sq{
+    text-align:right;
+    color:red;
+}
+
+
+
+
+
+
